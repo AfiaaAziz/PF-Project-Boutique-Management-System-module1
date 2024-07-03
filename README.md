@@ -1,2 +1,4 @@
 # PF-Project-Boutique-Management-System-module1
-Concept of File Handling is used in this module.
+Main Concepts used:
+-- File Handling.
+-- Exception Handling.
